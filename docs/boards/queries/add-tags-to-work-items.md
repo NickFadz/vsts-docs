@@ -7,7 +7,8 @@ ms.technology: devops-agile
 ms.prod: devops
 ms.assetid: 79A08F31-BB8A-48BD-AD17-477EE0B76BC7
 ms.manager: douge
-ms.author: kaelliauthor: KathrynEE
+ms.author: kaelli
+author: KathrynEE
 ms.topic: conceptual
 monikerRange: '>= tfs-2013'
 ms.date: 01/08/2018
@@ -18,10 +19,7 @@ ms.date: 01/08/2018
 [!INCLUDE [temp](../_shared/version-vsts-tfs-all-versions.md)]
 
 
-Tagging work items helps you quickly filter the product backlog or a work 
-item query by categories that you define. 
-A tag corresponds to a one or two keyword phrase that you define and that  
-supports your needs to filter a backlog or query, or define a query. 
+Tagging work items helps you quickly filter the product backlog or a work item query by categories that you define. A tag corresponds to a one or two keyword phrase that you define and that supports your needs to filter a backlog or query, or define a query.
 
 You can add and modify tags from the web portal, from Team Explorer plug-in for Visual Studio. Also, you can open a query in [Excel](../backlogs/office/bulk-add-modify-work-items-excel.md) to perform bulk modifications of tags.  
 
